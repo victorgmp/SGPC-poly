@@ -1,3 +1,12 @@
 [submodule "services/SGPC-api"]
 	path = services/api
 	url = https://github.com/victorgmp/SGPC-api.git
+		branch = main
+[submodule "services/SGPC-auth"]
+	path = services/auth
+	url = https://github.com/victorgmp/SGPC-auth.git
+		branch = main
+[submodule "services/SGPC-user"]
+	path = services/user
+	url = https://github.com/victorgmp/SGPC-user.git
+		branch = main
