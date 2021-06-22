@@ -6,7 +6,7 @@
 	path = services/auth
 	url = https://github.com/victorgmp/SGPC-auth.git
 		branch = main
-[submodule "services/SGPC-user"]
-	path = services/user
-	url = https://github.com/victorgmp/SGPC-user.git
+[submodule "services/SGPC-users"]
+	path = services/users
+	url = https://github.com/victorgmp/SGPC-users.git
 		branch = main
